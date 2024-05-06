@@ -22,6 +22,8 @@ An entertaining and interactive game that lets users take care of a virtual pet 
 **4. Build the Project:** After the project is successfully imported, click on the "Sync Project with Gradle Files" icon in the toolbar to ensure that the project is synced and ready to build.
 **5. Run the App:** Connect your Android device or use an emulator, then click on the "Run" icon in the toolbar to build and run your virtual pet app on the device or emulator.
 
-Here is a detailed tutorial: https://youtu.be/xg11_5nEvro Link to my repository: https://github.com/VCCT-IMAD5112-2024-G2/ST10441402-MyVirtualAppA2
+Here is a detailed tutorial: https://youtu.be/xg11_5nEvro 
+
+Link to my repository: https://github.com/VCCT-IMAD5112-2024-G2/ST10441402-MyVirtualAppA2
 
 
