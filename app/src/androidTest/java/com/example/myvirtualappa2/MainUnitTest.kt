@@ -14,9 +14,9 @@ class ActivityTestRule<T> {
     @get:Rule
     var activityRule: ActivityTestRule<MainActivity> = ActivityTestRule(MainActivity::class.java)
 
-    private fun ActivityTestRule(java: Class<MainActivity>) {
+    private fun ActivityTestRule(java: Class<MainActivity>): ActivityTestRule<MainActivity> {
+        TODO("Not yet implemented")
     }
-
 
     @Test
     fun testStartButtonClicked() {
