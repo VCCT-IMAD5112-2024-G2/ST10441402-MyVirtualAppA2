@@ -16,12 +16,12 @@ An entertaining and interactive game that lets users take care of a virtual pet 
  
 ![Virtual Pet 1](https://github.com/st10441402-AlexReisenberg/MyVirtualAppA2/assets/164515024/746de92f-a11a-4a37-8d17-141f1cc59fbd)
 
-**1. Clone the Repository: **Open Android Studio and select "Get from Version Control" from the welcome screen or go to "File" > "New" > "Project from Version Control" > "Git". Paste the URL of your GitHub repository and click "Clone".
+**1. Clone the Repository:** Open Android Studio and select "Get from Version Control" from the welcome screen or go to "File" > "New" > "Project from Version Control" > "Git". Paste the URL of your GitHub repository and click "Clone".
 **2. Open the Project:** Once the cloning process is complete, Android Studio will ask you to open the project. Click "Yes" or "Open" to proceed.
 **3. Configure Project:** Android Studio may prompt you to update Gradle settings or SDK components. Follow the prompts to update them if necessary.
 **4. Build the Project:** After the project is successfully imported, click on the "Sync Project with Gradle Files" icon in the toolbar to ensure that the project is synced and ready to build.
 **5. Run the App:** Connect your Android device or use an emulator, then click on the "Run" icon in the toolbar to build and run your virtual pet app on the device or emulator.
 
-Here is a detailed tutorial: https://youtu.be/xg11_5nEvro
-Link to my repository: https://github.com/VCCT-IMAD5112-2024-G2/ST10441402-MyVirtualAppA2
+Here is a detailed tutorial: https://youtu.be/xg11_5nEvro Link to my repository: https://github.com/VCCT-IMAD5112-2024-G2/ST10441402-MyVirtualAppA2
+
 
